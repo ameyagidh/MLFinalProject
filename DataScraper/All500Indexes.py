@@ -8,6 +8,7 @@ from sys import argv
 import os
 
 #https://github.com/CNuge/kaggle-code/blob/master/stock_data/getSandP.py
+#Used as reference
 def download_stock(stock):
     try:
         print(stock)
