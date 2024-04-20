@@ -22,10 +22,6 @@ This GitHub repository contains the code and resources for the MLFinalProject. T
 
 4. **Report**: Refer to `CS6140.pdf` for a comprehensive report on the project, including methodologies, results, and conclusions.
 
-## Contributors
-
-This project is maintained by [Your Name]. Contributions and suggestions are welcome via pull requests.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
